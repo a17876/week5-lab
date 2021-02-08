@@ -1,14 +1,38 @@
 h1{
-    color:blueviolet;
-    background-color:#FFFFB3 ;
+    color:#003399;
+    background-color:#E6FFFF ;
     width: 1000px;
     text-align: center;
     padding: 20px;
 }
-
-.section1.section2{
-    display: inline-block;
-    width: 600px;
-    height: 300px;
+h2{
+    margin: 20px
 }
+
+p{
+    display: inline-block;
+    width: 700px;
+    height: 150px;
+    line-height: 30px;
+    margin: 50px;
+   
+}
+ul{
+    display: inline-block;
+    width: 700px;
+    height: 150px;
+    line-height: 30px;
+    margin: 50px;
+   
+}
+
+.a1{
+    width:1032px;
+    background-color: #F6F6F6;
+}
+.a2{
+    width:1032px;
+    background-color: #F6F6F6;
+}
+
 
