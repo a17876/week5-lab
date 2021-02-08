@@ -1,0 +1,14 @@
+h1{
+    color:blueviolet;
+    background-color:#FFFFB3 ;
+    width: 1000px;
+    text-align: center;
+    padding: 20px;
+}
+
+.section1.section2{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+}
+
