@@ -1,7 +1,6 @@
 h1{
     color:#003399;
     background-color:#E6FFFF ;
-    width: 1000px;
     text-align: center;
     padding: 20px;
 }
@@ -10,24 +9,25 @@ h2{
 }
 
 p{
-    display: inline-block;
-    width: 700px;
     height: 150px;
     line-height: 30px;
-    margin: 50px;
+    margin: 10px;
    
 }
-ul{
-    display: inline-block;
-    width: 700px;
+.navigation{
+    background-color: lightblue;
+    text-align: center;
+}
+.course{
+
     height: 150px;
     line-height: 30px;
     margin: 50px;
    
 }
 
-.a1{
-    width:1032px;
+.article{
+
     background-color: #F6F6F6;
 }
 .a2{
